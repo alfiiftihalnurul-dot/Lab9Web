@@ -187,7 +187,7 @@ UPDATE digunakan untuk mengubah data barang yang sudah tersimpan di database.
 
 Program mengambil data berdasarkan ID barang, kemudian menampilkan data lama pada form edit. Pengguna dapat mengubah informasi barang dan menyimpan perubahan.
 
-![gambar](ab9Web/ss/SS19.png)
+![gambar](Lab9Web/ss/SS19.png)
 
 ### 4. DELETE (Menghapus Data)
 
@@ -197,5 +197,5 @@ DELETE digunakan untuk menghapus data barang dari database.
 
 Sebelum data dihapus, aplikasi menampilkan konfirmasi penghapusan. Jika proses berhasil, data barang akan dihapus dari database.
 
-![gambar](ab9Web/ss/SS20.png)
+![gambar](Lab9Web/ss/SS20.png)
 , dan menghapus data barang yang tersimpan di database MySQL.
