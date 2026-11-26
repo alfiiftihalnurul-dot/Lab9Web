@@ -157,7 +157,7 @@ Data ditampilkan dalam bentuk tabel yang berisi:
 - Stok
 - Aksi ubah dan hapus
 
-![gambar](ss/SS16.png)
+![gambar](Lab9Web/ss/SS16.png)
 
 ### 2. CREATE (Menambahkan Data)
 
